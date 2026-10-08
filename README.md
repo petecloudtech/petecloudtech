@@ -14,7 +14,7 @@ I build and support secure, reliable cloud environments. My work spans AWS and A
 | IAM Engineer | Numerator | Sep 2022–Oct 2024 | Automated identity lifecycle processes with PowerShell, Python, and Microsoft Graph API; partnered with 15+ application owners on RBAC; conducted access reviews and gathered SOX audit evidence. |
 | DevOps Engineer | FedEx | Dec 2019–Jul 2022 | Built Python and Bash automation for provisioning, health checks, and maintenance; supported Linux and containerized workloads; investigated deployment failures and rollback paths. |
 
-Selected results from my CV include a 15% reduction in cloud operating expenses at FTI Consulting, a 30% improvement in access governance at Numerator, and 25% less manual effort and 20% better system reliability from automation at FedEx. At FedEx, I resolved 90% of deployment and environment issues within two hours.
+At FTI Consulting, I reduced cloud operating expenses by 15%. At Numerator, I improved access governance by 30%. At FedEx, my automation reduced manual effort by 25% and improved system reliability by 20%; I resolved 90% of deployment and environment issues within two hours.
 
 ## Portfolio projects
 
