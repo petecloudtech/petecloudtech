@@ -28,7 +28,7 @@ These projects use synthetic data or local simulations. They are independent wor
 | [Cloud Cost Guard](https://github.com/petecloudtech/cloud-cost-guard) | Cost anomaly detection, budget projections, and missing-tag checks using sample billing data. |
 | [Progressive Delivery Gate](https://github.com/petecloudtech/progressive-delivery-gate) | Canary advance, hold, and rollback recommendations from synthetic telemetry. |
 
-I also built an **independent SRE reliability lab** with a local Python HTTP service, Prometheus-format metrics, availability and latency SLIs, practice SLOs, error budgets, burn-rate calculations, a runbook, and a blameless **simulated** incident postmortem. This is practice work, not production on-call experience.
+I also built an **[independent SRE reliability lab](https://github.com/petecloudtech/sre-reliability-lab)** with a local Python HTTP service, Prometheus-format metrics, availability and latency SLIs, practice SLOs, error budgets, burn-rate calculations, a runbook, and a blameless **simulated** incident postmortem. This is practice work, not production on-call experience.
 
 ## Technical focus
 
